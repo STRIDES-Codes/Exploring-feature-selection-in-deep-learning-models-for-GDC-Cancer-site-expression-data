@@ -14,10 +14,8 @@ NCI-DOE collaboration (https://github.com/ravichas/ML-TC1) show that expression 
 
 ## Overview 
 * Data collection 
-  * Data will be collected from GDC. 
-  * We will be collecting several datasets (cancer sites that have same lineages and different lineages)
-* Datasets will be used to construcct/compare several supervised and unsupervised models. 
-* Important features will be extracted and compared with experimental findings
-* Conclusions
-* Future directions
-
+  * Data source will be Genmic Data Commons. Several datasets (cancer sites that have same lineages and different lineages) will be constructed.
+* Datasets created in the previous step will be used to construcct/compare several supervised and unsupervised models. 
+* Important features from these models will be compared with experimental findings
+* Summarize the conclusions
+* Provide list of open questions and propose future directions
