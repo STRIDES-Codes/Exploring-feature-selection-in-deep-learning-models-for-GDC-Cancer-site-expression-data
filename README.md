@@ -2,15 +2,13 @@
 ## *Exploring Feature Selection for Genomics Expression Profile*
 
 
-### Scope/questions: 
+### Motivation: 
 
 NCI-DOE collaboration (https://github.com/ravichas/ML-TC1) show that expression profiles collected from different cancer sites can be modeled (classification) using the deep-learning (convolutional neural network) method. The method works well for a balanced dataset. What is not clear is, the neural network method doesn't answer what features (i.e. genes) are important and provide a signal to the model? A project to explore feature selection for genomics data could be useful for cancer research communities.
 
-### Complexity of the problem:
+### Complexity of the problem and open questions:
 
-* Genomics data is high dimensional in terms of the number of genes/probes/features
-* Identifying important genes is as important as building high accuracy models
-* 
+* Genomics data is high dimensional in terms of the number of genes/probes/features. Most models constructed from a high dimensional data will be complex. Identifying important features/genes is as important as building high accuracy models. Keeping in mind that genes do not work alone, pathway-based analysis could be used to 
 
 ## Overview 
 * Data collection 
