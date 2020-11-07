@@ -12,7 +12,8 @@ Genomics data is high dimensional in terms of the number of genes/probes/feature
 
 ## Overview 
 * Data collection 
-  * Data source will be Genmic Data Commons. Several datasets (cancer sites that have same lineages and different lineages) will be constructed.
+  * Data source will be Genmic Data Commons (https://portal.gdc.cancer.gov/). Several datasets (cancer sites that have same lineages and different lineages) will be constructed.
+           * Data collection will be based on our previous effort (details available from https://github.com/ravichas/ML-TC1/blob/master/TC1-dataprep.ipynb)
 * Datasets created in the previous step will be used to construct/compare several supervised and unsupervised models (tSNE, PCA,  
 * Important features from these models will be compared with experimental findings
 * Summarize the conclusions
