@@ -1,1 +1,2 @@
-# Exploring feature selection in deep learning models for GDC Cancer site expression data 
+# 2020 CSHL Codeathon
+## *Exploring Feature Selection for Genomics Expression Profile*
