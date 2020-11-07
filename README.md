@@ -1,5 +1,5 @@
 # 2020 CSHL Codeathon
-## *Exploring Feature Selection for Genomics Expression Profile*
+## *Exploring Feature Selection for Genomics Expression Profile* (draft version)
 
 
 ### Motivation: 
