@@ -18,3 +18,5 @@ Genomics data is high dimensional in terms of the number of genes/probes/feature
 * Summarize the conclusions
 * Provide list of open questions and propose future directions
 
+![alt text](Img/overview.PNG)
+
