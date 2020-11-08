@@ -29,5 +29,5 @@ Genomics data is high dimensional in terms of the number of genes/probes/feature
 * Aishwarya Mandava
 * Medina Colic
 * Regina Umarova
-* Sarangan Ravichandran (Github: ; Email: saka.ravi@gmail.com)
+* Sarangan Ravichandran (Github:https://github.com/ravichas; Email: saka.ravi@gmail.com)
 *  S. E. Krumme
