@@ -21,3 +21,13 @@ Genomics data is high dimensional in terms of the number of genes/probes/feature
 
 ![alt text](Img/overview.PNG)
 
+
+### Team
+
+* Andrew Weisman
+* Anwar Khan
+* Aishwarya Mandava
+* Medina Colic
+* Regina Umarova
+* Sarangan Ravichandran (Github: ; Email: saka.ravi@gmail.com)
+*  S. E. Krumme
