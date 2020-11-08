@@ -24,13 +24,14 @@ Genomics data is high dimensional in terms of the number of genes/probes/feature
 ## Links
 
 Presentation slide Google Link: 
-https://docs.google.com/presentation/d/1erTGpWVEhLZJ9xCHSKYEd81tABpZgOH7QiWieMJ9s_A/edit?usp=sharing
+
+* https://docs.google.com/presentation/d/1erTGpWVEhLZJ9xCHSKYEd81tABpZgOH7QiWieMJ9s_A/edit?usp=sharing
 
 Summary link: 
-https://docs.google.com/document/d/1osFSpdmZKxnbVrgs4vkbsvhuxuZVHJZhgqkz93UupVA/edit?usp=sharing
+* https://docs.google.com/document/d/1osFSpdmZKxnbVrgs4vkbsvhuxuZVHJZhgqkz93UupVA/edit?usp=sharing
 
 GitHub: 
-https://github.com/STRIDES-Codes/Exploring-feature-selection-in-deep-learning-models-for-GDC-Cancer-site-expression-data
+* https://github.com/STRIDES-Codes/Exploring-feature-selection-in-deep-learning-models-for-GDC-Cancer-site-expression-data
 
 
 ### Team
